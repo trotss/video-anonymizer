@@ -55,7 +55,7 @@ Estructura de archivos esperada:
 ## Instalación y Uso
 
 1. Clonar el repositorio:
-   git clone https://github.com/tu-usuario/nombre-repositorio.git
+   git clone https://github.com/trotss/video-anonymizer.git
    cd nombre-repositorio
 
 2. Crear y activar un entorno virtual:
